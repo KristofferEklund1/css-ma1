@@ -1,0 +1,25 @@
+{
+  "name": "kristoffer",
+  "version": "1.0.0",
+  "description": "my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-Fagskole/css-frameworks-ma-1-KristofferEklund1.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-Fagskole/css-frameworks-ma-1-KristofferEklund1/issues"
+  },
+  "homepage": "https://github.com/Noroff-Fagskole/css-frameworks-ma-1-KristofferEklund1#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}

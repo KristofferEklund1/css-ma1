@@ -1,0 +1,22 @@
+@import "./bootstrap/bootstrap.scss";
+.card--white{
+  background-color: white;
+  border-color: #C32C72;
+}
+.card--purple{
+  background-color: #C32C72;
+}
+
+.mx-auto{
+  color: #463F3A;
+  text-align: center;
+}
+
+body {
+  background-color: #E2E2E2;
+}
+
+.card--width1{
+  min-width: 260px;
+  min-height: 260px;
+}
